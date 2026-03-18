@@ -1,0 +1,1 @@
+This code applies Google Earth Engine (GEE) with the Python earthengine-api to map and classify Urban Heat Island (UHI) intensity in Nairobi County, then combines the results with WorldPop 2020 population data to estimate population exposure to heat.
